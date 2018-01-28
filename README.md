@@ -41,5 +41,11 @@ IMAGE_NAME = "input.png"    # Name of image file
 DATA_OFFSET = 32            # Where to start reading data from (mp3 music data starts at 32 by)
 ```
 
+# Dependencies
+- Turtle
+- Tkinter
+- PIL
+
+
 # Licensing 
 MIT
